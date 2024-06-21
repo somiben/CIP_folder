@@ -7,6 +7,7 @@
 4. Requests for some columns to be transformed into numerics
 5.  performs descriptive analysis by grouping or not-grouping
 6.   Generate a bar chart, and pie chart and interpret the mean, median, standard deviation, and many more as they relate to the data
+
 DESCRIPTIVE DATA LOGGER HAS THE FOLLOWING USE CASES:
 1. BUSINESS AND MARKETING Customer Feedback Analysis:
 2. collecting and analyzing customer feedback to understand customer satisfaction and improve products or services.
